@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Project</title>
+</head>
+
+<body>
+    <div id="root">
+    </div>
+
+
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+
+    <script>
+        const heading = React.createElement("h1", {}, "Hello react"); // creating object for h1 tag
+        const nik = ReactDOM.createRoot(document.getElementById("root")); //to place the object  in the dom we need to create a place
+        nik.render(heading); //rendering the object into the dom
+    </script>
+</body>
+
+
+</html>
