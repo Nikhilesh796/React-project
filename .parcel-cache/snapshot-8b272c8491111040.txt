@@ -1,5 +1,5 @@
-5992
-47C:\Users\asus\Desktop\HTML\Web Dev\react\App.js133634528042539948 0
+5990
+47C:\Users\asus\Desktop\HTML\Web Dev\react\App.js133634581342268977 0
 121C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\Lexer.js133634527100548700 0
 71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\has-flag\index.js133634527078646700 0
 80C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\plugins\cleanupIds.js133634527096169339 0
@@ -17,7 +17,7 @@
 78C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\core\postinstall.js133634527086340965 0
 66C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\LICENSE133634527075960437 0
 98C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\pagevisibility.js133634527124407573 0
-71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@msgpackr-extract133634529715046189 1
+71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@msgpackr-extract133634568110653262 1
 51C:\Users\asus\Desktop\HTML\Web Dev\react\.gitignore133631058225326905 0
 98C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\cjs\utils\url.cjs133634527104519072 0
 60C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\dotenv133634527081521147 1
@@ -31,7 +31,7 @@
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\lib\syntax\function133634527112102835 1
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@babel\highlight\node_modules\has-flag\license133634527078846703 0
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133634527104329189 0
-45C:\Users\asus\Desktop\HTML\Web Dev\react\dist133634517865774133 1
+45C:\Users\asus\Desktop\HTML\Web Dev\react\dist133634581352100813 1
 96C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\node_modules\node-addon-api\nothing.c133634527075800358 0
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\utility-types\dist\index.d.ts133634527089955956 0
 74C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\electron-to-chromium133634527088889863 1
@@ -42,7 +42,7 @@
 72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\parse-json\license133634527076030492 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-select\lib\attributes.js.map133634527093919510 0
 77C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-select\lib\types.js133634527092133869 0
-58C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc133634529715036210 1
+58C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc133634568110643237 1
 84C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-what\lib\commonjs\types.js133634527086221215 0
 91C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\plugins\moveGroupAttrsToElems.js133634527098741057 0
 67C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\bin\svgo133634527078886722 0
@@ -77,7 +77,7 @@
 98C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\pointer-events.js133634527125493492 0
 72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\entities\readme.md133634527091197971 0
 90C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\package-manager\src\index.js133634527084519979 0
-53C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules133634529715016270 1
+53C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules133634568110633238 1
 61C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\globals133634527082327372 1
 63C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\term-size133634527086351067 1
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\NO.js133634527123562084 0
@@ -86,7 +86,7 @@
 92C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\scheduler\umd\scheduler.development.js133634513988625017 0
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\mdn-data\api\inheritance.json133634527087944478 0
 113C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133634527104249212 1
-58C:\Users\asus\Desktop\HTML\Web Dev\react\package-lock.json133634529715566036 0
+58C:\Users\asus\Desktop\HTML\Web Dev\react\package-lock.json133634568111248415 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\utils\src\getRootDir.js133634527092393896 0
 77C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\watcher\LICENSE133634527076215262 0
 58C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso133634527103123515 1
@@ -108,7 +108,7 @@
 72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\timsort\LICENSE.md133634527080715257 0
 90C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\utility-types\dist\mapped-types.d.ts133634527090361694 0
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133634527080675322 0
-53C:\Users\asus\Desktop\HTML\Web Dev\react\package.json133634538941739403 0
+53C:\Users\asus\Desktop\HTML\Web Dev\react\package.json133634568110708477 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\update-browserslist-db\README.md133634527083503431 0
 94C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133634527086921086 0
 87C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lmdb\lmdb-win32-x64\package.json133634527077240937 0
@@ -122,7 +122,7 @@
 84C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\cjs\_to_array.cjs133634527100618830 0
 70C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\js-yaml\lib\type133634527093509621 1
 73C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\semver\package.json133634527096519309 0
-72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\.package-lock.json133634529715776069 0
+72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\.package-lock.json133634568111648691 0
 111C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133634527116793127 0
 111C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133634527116613151 0
 84C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\utils\lib\index.js.map133634527103663445 0
@@ -166,18 +166,18 @@
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\plugins\removeEmptyText.js133634527100358756 0
 60C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer133634527149543276 1
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\sharedworkers.js133634527127487376 0
-59C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lmdb133634529715046189 1
+59C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lmdb133634568110663263 1
 124C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.d.ts.map133634527089365827 0
 68C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\dom-serializer133634527087474244 1
 84C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib133634527111822610 1
 63C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\picomatch133634527086630918 1
 121C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133634527110101446 0
 63C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@mischnic133634527149543276 1
-69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\LICENSE133634517860721189 0
+69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\LICENSE133634568110423032 0
 94C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\esm\_object_spread_props.js133634527106559806 0
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\posthtml-render\changelog.md133634527080235294 0
 106C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.mjs133634527100418773 0
-61C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel133634529715036210 1
+61C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel133634568110653262 1
 70C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\is-glob\index.js133634527077371004 0
 64C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-select133634527099516764 1
 103C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\css-filter-function.js133634527106819761 0
@@ -461,7 +461,7 @@
 107C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133634527105574755 1
 62C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\bin133634527105049380 1
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133634527099756781 0
-61C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process133634517860831229 1
+61C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process133634568110553285 1
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\server-timing.js133634527127257364 0
 74C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\nullthrows\README.md133634527081701411 0
 59C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\react133631079334017578 1
@@ -524,7 +524,7 @@
 99C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\mdn-data\css\selectors.json133634527091528042 0
 68C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\to-regex-range133634527079443103 1
 112C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133634527121434358 0
-70C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\index.js133634517860771167 0
+70C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\index.js133634568110483089 0
 78C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\src\compression.cpp133634527101894740 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\NG.js133634527123472057 0
 74C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\htmlnano\LICENSE.txt133634527103673445 0
@@ -1266,6 +1266,7 @@
 119C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133634527110051158 0
 105C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\getboundingclientrect.js133634527116173128 0
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\postcss-value-parser\LICENSE133634527076020495 0
+67C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js.map133634581352060838 0
 81C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-addon-api\package.json133634527090581788 0
 78C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\supports-color\readme.md133634527080715257 0
 94C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\cjs\generator133634527104053765 1
@@ -1291,7 +1292,6 @@
 96C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\cjs\syntax\node133634527105029217 1
 89C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\dom-serializer\lib\esm\package.json133634527082937384 0
 111C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\definition-syntax\index.js133634527108045971 0
-63C:\Users\asus\Desktop\HTML\Web Dev\react\dist\react.3464ddca.js133634517865584160 0
 70C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\srcset\readme.md133634527079672985 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\transformer-html\LICENSE133634527076265256 0
 76C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\picomatch\CHANGELOG.md133634527086311024 0
@@ -1665,26 +1665,26 @@
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133634527098421215 0
 101C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\react\cjs\react.shared-subset.production.min.js133631079333987674 0
 131C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133634527078186827 0
-71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\.eslintrc133634517860831229 0
+71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\.eslintrc133634568110553285 0
 101C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133634527110387002 0
-72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\browser.js133634517860751189 0
+72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\browser.js133634568110453154 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\msgpackr-extract\node_modules\detect-libc\package.json133634527081361178 0
 123C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js.map133634527093829530 0
 106C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133634527088899887 0
 76C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\lib\convertor133634527108306790 1
 104C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133634527107100281 0
 91C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\cache\src\IDBCache.browser.js133634527083393362 0
-74C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\package.json133634517860641282 0
+74C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\package.json133634568110353054 0
 103C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133634527120513435 0
 89C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-addon-api\package-support.json133634527090291761 0
 110C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133634527087614170 0
-71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\README.md133634517860691257 0
+71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\README.md133634568110393120 0
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\core\src\TargetDescriptor.schema.js133634527106769879 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133634527081661238 0
 94C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133634527106659936 1
 75C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-what\package.json133634527087154155 0
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\esm\_ts_param.js133634527107495784 0
-69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\test.js133634517860811271 0
+69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\process\test.js133634568110533112 0
 99C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133634527101194743 0
 77C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\posthtml-render\license133634527076020495 0
 98C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\input-datetime.js133634527118354671 0
@@ -1947,7 +1947,6 @@
 111C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-releases\data\release-schedule\release-schedule.json133634527081220975 0
 104C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\css-text-orientation.js133634527110727153 0
 92C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-releases\data\processed\envs.json133634527078276920 0
-67C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.6bd02f5a.js.map133634517865554323 0
 93C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-gyp-build-optional-packages\bin.js133634527077350974 0
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\core\src\constants.js133634527098511081 0
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-select\lib\pseudo-selectors\filters.js.map133634527095463670 0
@@ -2271,6 +2270,7 @@
 113C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133634527096429336 0
 104C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133634527095113682 0
 111C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133634527100448875 0
+63C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js133634581351859981 0
 69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\is-json\LICENSE133634527079733110 0
 103C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\input-email-tel-url.js133634527118384696 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\syntax\node\Brackets.js133634527105644695 0
@@ -2990,7 +2990,7 @@
 99C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133634527107285720 0
 107C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\lexer\generic-const.js133634527107555869 0
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\view-transitions.js133634527130779995 0
-64C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css133634517865684257 0
+64C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css133634581349987499 0
 125C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Comment.js133634527090331711 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\lexer\generic-urange.js133634527107585777 0
 101C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133634527107645795 0
@@ -3826,7 +3826,6 @@
 79C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions133634527132891581 1
 92C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\transformer-image\package.json133634527084329662 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\AF.js133634527086601016 0
-67C:\Users\asus\Desktop\HTML\Web Dev\react\dist\react.3464ddca.js.map133634517865654375 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\AG.js133634527087164162 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\AI.js133634527088769832 0
 89C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\alt-af.js133634527089575891 0
@@ -5935,7 +5934,6 @@
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\lr\dist\constants.d.ts133634527086510913 0
 78C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\lr\dist\index.cjs133634527079163077 0
 80C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\lr\dist\index.d.cts133634527080425252 0
-63C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.6bd02f5a.js133634517865444184 0
 77C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\lr\dist\index.js133634527083303312 0
 72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\common\dist133634527086280995 1
 77C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lezer\common\README.md133634527084739686 0
@@ -5988,6 +5986,6 @@
 65C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\.bin\semver133634527137467957 0
 67C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\.bin\svgo.cmd133634527137487905 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\.bin\update-browserslist-db.cmd133634527137457816 0
-68C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css.map133634517865744226 0
-56C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.html133634517865414245 0
+68C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css.map133634581350083223 0
+56C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.html133634581350002677 0
 62C:\Users\asus\Desktop\HTML\Web Dev\react\.vscode\settings.json133610375864142860 0

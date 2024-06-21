@@ -8,7 +8,7 @@ root.render(heading); //rendering the object into the dom
 
 */
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 
 const parent = React.createElement("div", { id: "parent" },
     React.createElement("div", { id: "child" }, [
