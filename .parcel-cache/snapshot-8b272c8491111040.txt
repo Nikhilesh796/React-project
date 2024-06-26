@@ -1,8 +1,8 @@
 5994
 84C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\svgo\plugins\removeMetadata.js133634527100578727 0
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\css-mixblendmode.js133634527108416887 0
-56C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.html133638144860922393 0
-68C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css.map133638144861005136 0
+56C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.html133638938041265167 0
+68C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css.map133638938041515456 0
 105C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133634527091777973 0
 62C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\escalade133634527083743332 1
 118C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts133634527094451063 0
@@ -11,10 +11,10 @@
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\lib\syntax\function133634527112102835 1
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@babel\highlight\node_modules\has-flag\license133634527078846703 0
 100C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133634527104329189 0
-45C:\Users\asus\Desktop\HTML\Web Dev\react\dist133638144861887111 1
+45C:\Users\asus\Desktop\HTML\Web Dev\react\dist133638938042330455 1
 125C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Comment.js133634527090331711 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\lexer\generic-urange.js133634527107585777 0
-64C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css133638144860942515 0
+64C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.9e4c6fd2.css133638938041475434 0
 79C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\utils\src\path.js133634527098281122 0
 63C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\commander133634527084729661 1
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\type-fest\source\except.d.ts133634527088629901 0
@@ -34,7 +34,7 @@
 78C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\js-yaml\dist\js-yaml.mjs133634527094681103 0
 66C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\import-fresh133634527080525703 1
 95C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\input-event.js133634527118444683 0
-51C:\Users\asus\Desktop\HTML\Web Dev\react\.gitignore133631058225326905 0
+51C:\Users\asus\Desktop\HTML\Web Dev\react\.gitignore133638147510901463 0
 104C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\reporter-dev-server\src\templates\404.html133634527079293042 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\workers\test\integration\workerfarm\console.js133634527086911131 0
 81C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\supports-color\package.json133634527079663015 0
@@ -42,7 +42,7 @@
 119C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133634527110051158 0
 105C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\getboundingclientrect.js133634527116173128 0
 82C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\postcss-value-parser\LICENSE133634527076020495 0
-67C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js.map133638144861867144 0
+67C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js.map133638938042300373 0
 81C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\node-addon-api\package.json133634527090581788 0
 85C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\regions\ZM.js133634527132861564 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\esm\_export_star.js133634527105594735 0
@@ -59,7 +59,7 @@
 105C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js133634527110987283 0
 71C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\type-fest\license133634527075920295 0
 69C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\is-json\LICENSE133634527079733110 0
-63C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js133638144861786872 0
+63C:\Users\asus\Desktop\HTML\Web Dev\react\dist\index.7826abd7.js133638938042190490 0
 103C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\caniuse-lite\data\features\input-email-tel-url.js133634527118384696 0
 108C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\csso\node_modules\css-tree\lib\syntax\node\Brackets.js133634527105644695 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\lmdb\dependencies\lmdb\libraries133634527080295309 1
@@ -145,14 +145,14 @@
 72C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\timsort\LICENSE.md133634527080715257 0
 90C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\utility-types\dist\mapped-types.d.ts133634527090361694 0
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133634527080675322 0
-53C:\Users\asus\Desktop\HTML\Web Dev\react\package.json133638122774832325 0
+53C:\Users\asus\Desktop\HTML\Web Dev\react\package.json133638937947529804 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\update-browserslist-db\README.md133634527083503431 0
 94C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133634527086921086 0
 87C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@lmdb\lmdb-win32-x64\package.json133634527077240937 0
 86C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\source-map\dist\types.js133634527089030078 0
 95C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133634527082347382 0
 91C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\source-map\lib\source-map-consumer.js133634527087194094 0
-50C:\Users\asus\Desktop\HTML\Web Dev\react\README.md133634609243383948 0
+50C:\Users\asus\Desktop\HTML\Web Dev\react\README.md133638924598880245 0
 97C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\@parcel\core\test\fixtures\config\.parcelrc133634527086590914 0
 83C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\react-error-overlay\README.md133634527085965095 0
 80C:\Users\asus\Desktop\HTML\Web Dev\react\node_modules\mdn-data\css\at-rules.json133634527082727322 0
