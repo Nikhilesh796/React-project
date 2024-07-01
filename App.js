@@ -25,8 +25,8 @@ import ReactDOM from "react-dom/client";
 // This is how we create react element using JSX
 // The jsx code is transpiled before it reaches js Engine.Parcel will make the transpilation happen through babel.
 // JSX =>Babel transpiles it to React.createElement => Babel transpiles it to  Reactelement- JS object => HTML  element
-const heading = ( < h1 className = "Hello" >
-        Hello < /h1>);    
+const heading = ( <h1 className = "Hello" >
+        Hello </h1>);    
 
         console.log(heading);
         const root = ReactDOM.createRoot(document.getElementById("root")); root.render(heading);
