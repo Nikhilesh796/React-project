@@ -2958,8 +2958,7 @@ const heading = React.createElement("h1", { id: "heading" }, "Hello  world! from
 const root = ReactDOM.createRoot(document.getElementById("root")); //to place the object  in the dom we need to create a place
 
 root.render(heading); //rendering the object into the dom
-
-
+*/ /*
 const parent = React.createElement("div", { id: "parent" }, //creating a React element using core react.
     React.createElement("div", { id: "child" }, [
         React.createElement("h1", { id: "heading1" }, "React Nested elements"),
@@ -2976,19 +2975,46 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-// React.createElement(after creating it,it becomes) => object => (when we render it,it becomes) HTML element
+// React.createElement(after creating it,it becomes) => object => (when we render it,it becomes) HTML element.
 // This is how we create react element using JSX
-const jsxheading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-    id: "heading1",
-    children: " Hello "
-}, void 0, false, {
-    fileName: "App.js",
-    lineNumber: 26,
-    columnNumber: 20
-}, undefined);
-console.log(jsxheading);
+// The jsx code is transpiled before it reaches js Engine.Parcel will make the transpilation happen through babel.
+// JSX =>Babel transpiles it to React.createElement => Babel transpiles it to  Reactelement- JS object => HTML  element
+/* A normal react element
+const heading = ( <h1 className = "Hello" > Hello </h1> );//We use camel case for writing attributes..like class,id
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(heading);
+*/ //REACT component
+//Arrow function ' () => {} '
+//Functional component
+const HeadingComponent = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        className: "heading",
+        children: " Hello wolrd "
+    }, void 0, false, {
+        fileName: "App.js",
+        lineNumber: 40,
+        columnNumber: 12
+    }, undefined);
+};
+_c = HeadingComponent;
+const HeadingComponent2 = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        className: "heading",
+        children: " Hello "
+    }, void 0, false, {
+        fileName: "App.js",
+        lineNumber: 42,
+        columnNumber: 33
+    }, undefined);
+_c1 = HeadingComponent2;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(jsxheading);
+root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
+    fileName: "App.js",
+    lineNumber: 45,
+    columnNumber: 14
+}, undefined));
+var _c, _c1;
+$RefreshReg$(_c, "HeadingComponent");
+$RefreshReg$(_c1, "HeadingComponent2");
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {

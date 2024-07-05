@@ -5,8 +5,8 @@ const heading = React.createElement("h1", { id: "heading" }, "Hello  world! from
 const root = ReactDOM.createRoot(document.getElementById("root")); //to place the object  in the dom we need to create a place
 
 root.render(heading); //rendering the object into the dom
-
-
+*/
+/*
 const parent = React.createElement("div", { id: "parent" }, //creating a React element using core react.
     React.createElement("div", { id: "child" }, [
         React.createElement("h1", { id: "heading1" }, "React Nested elements"),
@@ -25,8 +25,21 @@ import ReactDOM from "react-dom/client";
 // This is how we create react element using JSX
 // The jsx code is transpiled before it reaches js Engine.Parcel will make the transpilation happen through babel.
 // JSX =>Babel transpiles it to React.createElement => Babel transpiles it to  Reactelement- JS object => HTML  element
-const heading = ( <h1 className = "Hello" >
-        Hello </h1>);    
 
-        console.log(heading);
-        const root = ReactDOM.createRoot(document.getElementById("root")); root.render(heading);
+/* A normal react element
+const heading = ( <h1 className = "Hello" > Hello </h1> );//We use camel case for writing attributes..like class,id
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(heading);
+*/
+
+//REACT components
+
+//Arrow function ' () => {} '
+//Functional component
+const HeadingComponent = () => {
+    return <h1 className = "heading" > Hello wolrd < /h1>
+}; { /* we can avoid writing return keyword.If it is a single line code. */ }
+const HeadingComponent2 = () => < h1 className = "heading" > Hello < /h1>; 
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render( < HeadingComponent / > );
